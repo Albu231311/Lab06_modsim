@@ -89,4 +89,3 @@ Donde:
 
 **Fecha**: 14 de octubre, 2025  
 **Curso**: Modelación y Simulación 2025  
-**Institución**: [Universidad/Institución]
